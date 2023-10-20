@@ -13,6 +13,9 @@ La répartition des critères d'évaluation est comme suit:
 - 10% pour le fonctionnement du jeu 
 - 4% pour le respect des normes Python et la documentation
 
+- Le TP2 se fait en équipe de 2 ou 3 personnes
+
+
 ### Interface
 1) L'interface utilisateur sera composée d'une aire de jeu et d'une zone pour les contrôles
 2) La fenêtre devra se nommer "Artilleur"
