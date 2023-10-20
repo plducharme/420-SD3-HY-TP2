@@ -4,7 +4,10 @@ from PySide6.QtGui import QPixmap
 from random import randint
 import math
 
-
+# Noms et utilisateurs Github de tous les membres de l'équipe
+# Auteur 1:
+# Auteur 2:
+# Auteur 3:
 class Artilleur(QMainWindow):
 
     def __init__(self):
